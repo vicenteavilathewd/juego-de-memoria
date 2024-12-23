@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Tablero
+comment1.params=
+comment1.target=Tablero()
+comment2.params=
+comment2.target=void\ inicializarCartas()
+comment3.params=
+comment3.target=void\ mezclarCartas()
+comment4.params=
+comment4.target=void\ mostrarTableroOculto()
+comment5.params=pos1\ pos2
+comment5.target=void\ mostrarCartasTemporalmente(int,\ int)
+comment6.params=pos1\ pos2
+comment6.target=boolean\ verificarPareja(int,\ int)
+comment7.params=
+comment7.target=boolean\ juegoTerminado()
+numComments=8

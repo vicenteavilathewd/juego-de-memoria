@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Jugador
+comment1.params=nombre
+comment1.target=Jugador(java.lang.String)
+comment2.params=
+comment2.target=int\ getPuntos()
+comment3.params=puntos
+comment3.target=void\ incrementarPuntos(int)
+comment4.params=movimiento
+comment4.target=void\ registrarMovimiento(java.lang.String)
+comment5.params=
+comment5.target=void\ mostrarMovimientos()
+comment6.params=
+comment6.target=void\ mostrarLogros()
+comment7.params=
+comment7.target=void\ animar()
+numComments=8
